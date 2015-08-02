@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>74FEB516-9F30-4E1B-8C5A-8127F60A5A0C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>HandongAppSwift</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>901950BCD6533858AD8033020554F3157BE27EDE</key>
-		<string>https://github.com/juheon0615/HandongSwift2.git</string>
+		<key>C88E8E7BF7E2E1B11F7C8568892B295EF99EF691</key>
+		<string>https://github.com/juheon0615/GhostHandongSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>HandongAppSwift.xcodeproj</string>
+	<string>HandongAppSwift.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>901950BCD6533858AD8033020554F3157BE27EDE</key>
+		<key>C88E8E7BF7E2E1B11F7C8568892B295EF99EF691</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/juheon0615/HandongSwift2.git</string>
+	<string>https://github.com/juheon0615/GhostHandongSwift.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>901950BCD6533858AD8033020554F3157BE27EDE</string>
+	<string>C88E8E7BF7E2E1B11F7C8568892B295EF99EF691</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>901950BCD6533858AD8033020554F3157BE27EDE</string>
+			<string>C88E8E7BF7E2E1B11F7C8568892B295EF99EF691</string>
 			<key>IDESourceControlWCCName</key>
-			<string>HandongSwift2</string>
+			<string>GhostHandongSwift</string>
 		</dict>
 	</array>
 </dict>
